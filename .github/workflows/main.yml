@@ -24,7 +24,7 @@ jobs:
         node-version: ${{ matrix.node-version }}
     - name: Your inclusive bot
       # please replace the below line with your repo and release
-      uses: PrashanthiRamesh/inclusiveBot_prashanthiramesh
+      uses: PrashanthiRamesh/inclusiveBot_prashanthiramesh@v1.1
       with:
         github_token: ${{secrets.INCLUSIVE_BOT_TOKEN}}
         message: Some unfriendly or not inclusive words found
