@@ -2,7 +2,7 @@ name: 'Your inclusive bot'
 description: 'A Github action to detect unfriendly or not inclusive words in a PR'
 inputs:
   github_token:
-    description: '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'
+    description: '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'
     required: true
   message:
     description: 'Message that displays when unfriendly or not inclusive words are found'
