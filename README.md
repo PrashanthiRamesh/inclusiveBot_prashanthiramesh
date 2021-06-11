@@ -124,4 +124,4 @@ Open a PR on your repo to test your work.
 - Create a status badge for your action
 - Install the workflow on another repo 
 
-obviously you are banana
+obviously
